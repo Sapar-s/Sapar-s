@@ -48,7 +48,7 @@
 
 - 📧 Email: **smagulsapar52@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/sapar-smagul-850b812b2](https://www.linkedin.com/in/sapar-smagul-850b812b2)
-- 🌐 Portfolio: *(coming soon...)*
+- 🌐 Portfolio: [sapar.vercel.app](https://www.sapar.vercel.app)
 
 ---
 
